@@ -1,3 +1,8 @@
+''' 
+YTDust v0.1 | Developed by Abraar |
+For updates, contact me.
+'''
+
 import tkinter as tk
 from tkinter import ttk
 from pytube import YouTube
